@@ -21,10 +21,15 @@ This guided project demonstrates my hands-on experience in Active Directory Doma
 ### Tools Used
 [Bullet Points]
 
-
-
-
-
+- Windows Server – for managing Active Directory Domain Services (AD DS)
+- Active Directory Users and Computers (ADUC) – for managing users, groups, and computers
+- Group Policy Management Console (GPMC) – for configuring security policies
+- PowerShell – for automating AD DS tasks
+- Hyper-V – for setting up virtualized Windows Server environments
+-
+-
+-
+-
 
 
 
