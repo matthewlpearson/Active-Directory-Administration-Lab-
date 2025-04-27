@@ -26,10 +26,10 @@ This guided project demonstrates my hands-on experience in Active Directory Doma
 - Group Policy Management Console (GPMC) – for configuring security policies
 - PowerShell – for automating AD DS tasks
 - Hyper-V – for setting up virtualized Windows Server environments
--
--
--
--
+
+## Steps
+
+
 
 
 
