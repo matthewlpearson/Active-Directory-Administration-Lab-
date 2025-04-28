@@ -8,24 +8,29 @@ This guided project demonstrates my hands-on experience in Active Directory Doma
 ### Skills Learned
 [Bullet Points]
 
-- Deploy and manage AD DS domain controllers
-- Configure and manage AD DS objects (users, groups, computers)
-- Create and configure Group Policy Objects (GPOs) for security policies
-- Implement password policies and authentication methods
-- Secure AD DS by managing permissions and auditing
-- Configure domain controller operations
-- Manage user accounts and group memberships
-- Apply fine-grained password policies
-- Set up security settings for Active Directory
+- Deploy and manage AD DS domain controllers.
+- Configure Active Directory topology.
+- Create and manage AD DS objects.
+- Create and configure Group Policy Objects (GPOs) in AD DS.
+- Manage security in AD DS.
+- Development of critical thinking and problem-solving skills in IT. 
+  
+
+  
 
 ### Tools Used
 [Bullet Points]
 
-- Windows Server – for managing Active Directory Domain Services (AD DS)
-- Active Directory Users and Computers (ADUC) – for managing users, groups, and computers
-- Group Policy Management Console (GPMC) – for configuring security policies
-- PowerShell – for automating AD DS tasks
-- Hyper-V – for setting up virtualized Windows Server environments
+- Hyper-V on Windows10/11 - Used to create and manage the virtualized environment hosting the Windows Server VMs.
+- Windows Server 2022 - This serves as the Domain Controller and Domain Member Server for hands-on AD DS configuration.
+- Active Directory - Used to manage domain controllers, configure directory topology, create and organize objects, apply security policies with Group Policy, and enforce authentication rules.
+- Powershell - Used to create a NAT network with administrater access.
+
+
+
+  
+ 
+  
 
 ## Steps
 
