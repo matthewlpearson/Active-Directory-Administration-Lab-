@@ -37,9 +37,9 @@ Hyper-V is used in this project to create a virtualized environment for administ
 
 Ref 1: Virtualization Platform
 
-Using PowerShell to create an NAT Network.![2025-05-09 14_10_43-Window](https://github.com/user-attachments/assets/f1e04339-08d8-4ccb-8fc3-dba6c8e0edf0)Ref 2: PowerShell
+Using PowerShell to create an NAT Network.![2025-05-09 14_10_43-Window](https://github.com/user-attachments/assets/f1e04339-08d8-4ccb-8fc3-dba6c8e0edf0)
 
-
+Ref 2: PowerShell
 
 
 
