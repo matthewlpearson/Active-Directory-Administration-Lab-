@@ -45,8 +45,9 @@ Ref 2: PowerShell
 
 Ref 3: Server Manager
 
+**Deployed and configured a Windows Server 2022 Domain member server**.![2025-05-09 16_10_38-Window](https://github.com/user-attachments/assets/9a535a2e-b365-4540-a3f9-35720ff3a720)
 
-
+Ref 4: Server Manager
 
 
 
