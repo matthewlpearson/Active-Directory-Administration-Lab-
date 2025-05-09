@@ -33,11 +33,11 @@ This guided project demonstrates my hands-on experience in Active Directory Doma
   
 
 ## Steps
-**Hyper-V is used in this project to create a virtualized environment for administering Active Directory Domain Services (AD DS).![2025-04-30 16_37_21-Window](https://github.com/user-attachments/assets/9a9ece78-ebf9-4d6a-bb7f-95cc93fd0af1)
+**Hyper-V is used in this project to create a virtualized environment for administering Active Directory Domain Services (AD DS)**.![2025-04-30 16_37_21-Window](https://github.com/user-attachments/assets/9a9ece78-ebf9-4d6a-bb7f-95cc93fd0af1)
 
 Ref 1: Virtualization Platform
 
-**Using PowerShell to create an NAT Network.![2025-05-09 14_10_43-Window](https://github.com/user-attachments/assets/f1e04339-08d8-4ccb-8fc3-dba6c8e0edf0)
+**Using PowerShell to create an NAT Network**.![2025-05-09 14_10_43-Window](https://github.com/user-attachments/assets/f1e04339-08d8-4ccb-8fc3-dba6c8e0edf0)
 
 Ref 2: PowerShell
 
