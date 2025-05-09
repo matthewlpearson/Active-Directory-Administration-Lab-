@@ -49,8 +49,9 @@ Ref 3: Server Manager
 
 Ref 4: Server Manager
 
+**Installed Active Directory Domain Services (AD DS) and promoted to Domain Controller**.![2025-05-09 16_24_41-Window](https://github.com/user-attachments/assets/6f9172dc-ee46-4e9c-94ca-04985f9b0298)
 
-
+Ref 5: Server Manager
 
 
 
