@@ -41,8 +41,9 @@ Ref 1: Virtualization Platform
 
 Ref 2: PowerShell
 
+**Deployed and configured a Windows Server 2022 Domain Controller**.![2025-05-09 15_51_00-Window](https://github.com/user-attachments/assets/69ebd8d5-7bd9-4eec-8114-df4d68d99ec8)
 
-
+Ref 3: Server Manager
 
 
 
